@@ -1,0 +1,106 @@
+body {
+    background-image: url(img/especificaciones/fondo3.png);
+    background-size: 1650px 1900px;
+}
+
+header .container {
+    padding-top: 45px;
+    padding-left: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Montserrat';
+    font-size: 23px;
+    font-weight: 700;
+    text-align: center;
+}
+
+header a {
+    color: #1c1c1c;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #efeee9;
+    background-color: #1c1c1c;
+}
+
+#inicio {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#obra {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#artista {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#especificaciones {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#conclusiones {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.subrayado1 {
+    background-color: #efeee9;
+    color: #1c1c1c;
+}
+
+.subrayado2 {
+    background-color: #1b3982;
+    color: #efeee9;
+}
+
+.subrayado3 {
+    background-color: #fa8b31;
+    color: #efeee9;
+}
+
+.contenido {
+    width: 1500px;
+    margin: 100px auto;
+    float: center;
+}
+
+#títulotexto1 {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.texto1 {
+    font-family: 'Montserrat';
+    color: #1c1c1c;
+    font-size: 20px;
+    padding-left: 75px;
+    padding-top: 930px;
+    text-align: left;
+    width: 1200px;
+}
+
+.texto2 {
+    font-family: 'Montserrat';
+    color: #1c1c1c;
+    font-size: 20px;
+    padding-left: 820px;
+    padding-top: 80px;
+    text-align: left;
+    width: 580px;
+}
+
+.foto8 {
+    width: 660px;
+    height: 472px;
+    padding-left: 75px;
+    padding-top: 1140px;
+    padding-bottom: 80px;
+    position: absolute;
+}

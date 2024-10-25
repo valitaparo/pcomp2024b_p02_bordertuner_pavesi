@@ -1,0 +1,94 @@
+body {
+    background-color: #e4ad77;
+    background-size: 1920px 1500px;
+}
+
+header .container {
+    padding-top: 45px;
+    padding-left: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Montserrat';
+    font-size: 23px;
+    font-weight: 700;
+    text-align: center;
+}
+
+header a {
+    color: #1c1c1c;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #efeee9;
+    background-color: #1c1c1c;
+}
+
+#inicio {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#obra {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#artista {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#especificaciones {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#conclusiones {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.subrayado1 {
+    background-color: #efeee9;
+    color: #1c1c1c;
+}
+
+.subrayado2 {
+    background-color: #1b3982;
+    color: #efeee9;
+}
+
+.subrayado3 {
+    background-color: #fa8b31;
+    color: #efeee9;
+}
+
+.contenido {
+    width: 1500px;
+    margin: 100px auto;
+    float: center;
+}
+
+#títulotexto1 {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.texto1 {
+    font-family: 'Montserrat';
+    color: #efeee9;
+    font-size: 20px;
+    padding-left: 75px;
+    text-align: left;
+    width: 520px;
+}
+
+.foto9 {
+    width: 670px;
+    height: 769px;
+    padding-left: 750px;
+    padding-bottom: 120px;
+    position: absolute;
+}
